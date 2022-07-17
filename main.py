@@ -1,4 +1,4 @@
-#iRaven/KyleS
+#author: iRaven
 # Batch sucks for this.
 # Python doesn't :3
 
